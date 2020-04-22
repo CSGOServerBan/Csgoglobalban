@@ -1,3 +1,5 @@
+# 版本 Edition
+  0.0.1 Beta
 # CSGO Server Global Ban
 这是一款全球封禁系统，他并没有自主检测作弊程序的功能，但是可以提供封禁系统共享数据库，只要在在服务器中安装了CSGO Server Global Ban，那么你将获得CSGO Server Global Ban 数据库中所有封禁的玩家，数据库中封禁的玩家将无法在您的服务器中进行游戏。
 
