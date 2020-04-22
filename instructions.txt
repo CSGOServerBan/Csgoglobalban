@@ -1,0 +1,7 @@
+https://csgoserver.top/cart.php?gid=1  获取激活码地址
+
+QQ群地址:827844653
+
+安装方法，在csgoserver_pure_ecs/csgo/目录下解压
+
+开启命令!gb
